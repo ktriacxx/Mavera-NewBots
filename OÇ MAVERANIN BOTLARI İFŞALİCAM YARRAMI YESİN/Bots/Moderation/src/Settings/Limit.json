@@ -1,0 +1,8 @@
+{
+    "YaşLimit": "13",
+    "BanLimit": "5",
+    "JailLimit": "7",
+    "MuteLimit": "10",
+    "VmuteLimit": "10",
+    "KalkmazBanLimit": "3"
+}
